@@ -17,3 +17,7 @@ Use o `Makefile` para compilar todos os arquivos:
 
 ```bash
 make
+
+## Como testar
+
+./main matriz <arquivo.txt> <origem> <destino>
